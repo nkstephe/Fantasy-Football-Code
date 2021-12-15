@@ -5,7 +5,7 @@ Overview: Use 2019 data given in dataset, already normalized, use the 2019 as th
 select features, use machine learning model in order to predict which features are important, clean data, then use models (QDA, logistic regression, and support vector machines), create visuals, use predictors in order to find what the next years data will be, find accuracy rate.
 
 
-Process: 
+Process for analysis: 
 1. import data from github into the Jupyter Notebook 
 2. clean and then visual data in order get an idea of what we're working with
 3. selecting features using .describe() pandas function
